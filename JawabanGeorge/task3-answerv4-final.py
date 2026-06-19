@@ -48,7 +48,7 @@ while True:
         print()
         print("Question 3:")
         print("What do you call the process when animals sleep through winter?")
-        answer3 = input("your answer: ")
+        answer3 = input("Your answer: ")
         answer3 = answer3.lower()
         if answer3 == "hibernation":
             print("Correct!")
@@ -214,7 +214,7 @@ while True:
             score = score + 1
         else:
             print("Wrong! The correct answer is: 43")
-        print()
+            print()
         print("Question 4:")
         print("What is 144 : 12?")
         answer4 = input("your answer: ")
